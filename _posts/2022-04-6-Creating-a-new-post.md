@@ -1,7 +1,7 @@
 ---
 layout: post
 site-title: Creating a new post
-author: Involts
+author: Aziel Lance
 ---
 
 This post shows how to create a new post on the `Fica` Theme. Even if you have previous experience with Jekyll, this article is worth reading, because many features require specific variables to be set.
@@ -61,7 +61,7 @@ site-title: post
 ---
 layout: post
 site-title: Creating a new post
-author: Involts
+author: aeziyehl
 ---
 ```
 
@@ -70,7 +70,7 @@ if you want to pin the post:
 ---
 layout: post
 site-title: Creating a new post
-author: Involts
+author: aeziyehl
 pin: true
 ---
 ```
@@ -79,7 +79,7 @@ if you want to remove TOC in post
 ```yml
 layout: post
 site-title: Creating a new post
-author: Involts
+author: aeziyehl
 post_toc: false
 ```
 

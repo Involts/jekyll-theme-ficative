@@ -6,7 +6,7 @@
 # theme: jekyll-theme-fica
 
 #  if you using GitHub-Pages:
-remote_theme: Involts/jekyll-theme-fica
+remote_theme: aeziyehl/jekyll-theme-fica
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
@@ -25,7 +25,7 @@ date_format: "%b %-d, %Y"
 
 Header:
   header_name_1: Download
-  header_link_1: https://github.com/Involts/jekyll-theme-fica/zipball/master
+  header_link_1: https://github.com/aeziyehl/jekyll-theme-fica/zipball/master
 
   header_name_2: Post
   header_link_2: /post/
@@ -38,7 +38,7 @@ Footer:
   #  Section 1
   footer_section_1_title: find me on
   footer_section_1_links_1_name: Github
-  footer_section_1_links_1_link: https://github.com/Involts
+  footer_section_1_links_1_link: https://github.com/aeziyehl
 
   footer_section_1_links_2_name: Youtube
   footer_section_1_links_2_link: /
@@ -73,10 +73,10 @@ google_analytics:
   id:           # fill in your Google Analytics ID    
 
 socials:
-  # Change Involts to your full name.
-  name: Involts
+  # Change Aziel Lance to your full name.
+  name: Aziel Lance
   # it also be the copyright owner's link
-  author-link: https://github.com/Involts
+  author-link: https://github.com/aeziyehl
 
 
 # Pagination
@@ -90,7 +90,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-url: 'https://involts.github.io/'  
+url: 'https://aeziyehl.github.io/'  
 
 collections:
   tabs:

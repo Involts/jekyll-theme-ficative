@@ -1,7 +1,7 @@
 ---
 layout: post
 site-title: Fica Customization
-author: Involts
+author: Aziel Lance
 ---
 
 The following shows how to customize the Theme.

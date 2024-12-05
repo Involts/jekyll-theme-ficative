@@ -3,19 +3,19 @@
 Gem::Specification.new do |spec|
   spec.name = "jekyll-theme-fica"
   spec.version = "0.3.0"
-  spec.authors = ["Involts"]
+  spec.authors = ["Aziel Lance"]
   spec.email = ["aziellan27@gmail.com"]
 
   spec.summary = "A modern theme with minimal look"
-  spec.homepage = "https://github.com/Involts/jekyll-theme-fica"
+  spec.homepage = "https://github.com/aeziyehl/jekyll-theme-fica"
   spec.license  = "MIT"
 
   spec.metadata = {
-    "bug_tracker_uri"   => "https://github.com/Involts/jekyll-theme-fica/issues",
-    "documentation_uri" => "https://github.com/Involts/jekyll-theme-fica#readme",
-    "homepage_uri"      => "https://involts.github.io/jekyll-theme-fica/",
-    "source_code_uri"   => "https://github.com/Involts/jekyll-theme-fica",
-    "wiki_uri"          => "https://github.com/Involts/jekyll-theme-fica/wiki",
+    "bug_tracker_uri"   => "https://github.com/aeziyehl/jekyll-theme-fica/issues",
+    "documentation_uri" => "https://github.com/aeziyehl/jekyll-theme-fica#readme",
+    "homepage_uri"      => "https://aeziyehl.github.io/jekyll-theme-fica/",
+    "source_code_uri"   => "https://github.com/aeziyehl/jekyll-theme-fica",
+    "wiki_uri"          => "https://github.com/aeziyehl/jekyll-theme-fica/wiki",
     "plugin_type"       => "theme"
   }
 

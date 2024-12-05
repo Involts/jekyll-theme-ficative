@@ -15,7 +15,7 @@ home: true
 ### Step 2:
  Add `theme: jekyll-theme-fica`, if you run it locally and 
  
- `remote_theme: Involts/jekyll-theme-fica`, if you using GitHub-Pages to your `_config.yml`.
+ `remote_theme: aeziyehl/jekyll-theme-fica`, if you using GitHub-Pages to your `_config.yml`.
 
 ### Step 3:
   Run `$ bin/run insdep`, if you download it on Github and
@@ -37,7 +37,7 @@ title: [The title of your site]
 description: [A short description of your site's purpose]
 
 socials:
-  # Change Involts to your full name.
+  # Change aeziyehl to your full name.
   name: [The author of the site]
   # it also be the copyright owner's link
   author-link: [Link of the author]
@@ -49,7 +49,7 @@ Change the links of your site header:
 header:
     external_link_1: true # if false, it adds the baseurl of the site
     header_name_1: Download
-    header_link_1: https://github.com/Involts/jekyll-theme-fica/zipball/master
+    header_link_1: https://github.com/aeziyehl/jekyll-theme-fica/zipball/master
 
     external_link_2: false # if false, it adds the baseurl of the site
     header_name_2: Post
@@ -67,7 +67,7 @@ Footer:
   #  Section 1
   footer_section_1_title: find me on
   footer_section_1_links_1_name: Github
-  footer_section_1_links_1_link: https://github.com/Involts
+  footer_section_1_links_1_link: https://github.com/aeziyehl
 
   footer_section_1_links_2_name: Youtube
   footer_section_1_links_2_link: /

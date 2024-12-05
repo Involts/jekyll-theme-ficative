@@ -1,7 +1,7 @@
 ---
 layout: post
 site-title: Elements of Fica Theme
-author: Involts
+author: Aziel Lance
 modified_date: 2023-04-14
 ---
 

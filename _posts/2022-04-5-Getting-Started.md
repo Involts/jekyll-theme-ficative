@@ -1,7 +1,7 @@
 ---
 layout: post
 site-title: Getting Started
-author: Involts
+author: Aziel Lance
 pin: true
 ---
 
@@ -15,7 +15,7 @@ Follow the instructions in [jekyll Docs](https://jekyllrb.com/docs/installation/
 
 1. [Using RubyGems](https://rubygems.org/gems/jekyll-theme-fica) - Easy to upgrade, but it is not convenient with customizing the Theme.
 
-1. [Forking using Github](https://github.com/Involts/jekyll-theme-fica/generate) - Not easy to upgrade, but you needs familiar with [Jekyll](https://jekyllrb.com), [Git](https://git-scm.com/) or [Github](https://github.com/).
+1. [Forking using Github](https://github.com/aeziyehl/jekyll-theme-fica/generate) - Not easy to upgrade, but you needs familiar with [Jekyll](https://jekyllrb.com), [Git](https://git-scm.com/) or [Github](https://github.com/).
 
 ## Option 1. Using RubyGems
 
@@ -79,7 +79,7 @@ title: [The title of your site]
 description: [A short description of your site's purpose]
 
 socials:
-  # Change Involts to your full name.
+  # Change aeziyehl to your full name.
   name: [The auther of the site]
   # it also be the copyright owner's link
   author-link: [Link of the auther]
@@ -91,7 +91,7 @@ Change the links of your site header:
 header:
     external_link_1: true # if false, it adds the baseurl of the site
     header_name_1: Download
-    header_link_1: https://github.com/Involts/jekyll-theme-fica/zipball/master
+    header_link_1: https://github.com/aeziyehl/jekyll-theme-fica/zipball/master
 
     external_link_2: false # if false, it adds the baseurl of the site
     header_name_2: Post
@@ -113,7 +113,7 @@ Change the links of your site header:
 header:
     external_link_1: true # if false, it adds the baseurl of the site
     header_name_1: Download
-    header_link_1: https://github.com/Involts/jekyll-theme-fica/zipball/master
+    header_link_1: https://github.com/aeziyehl/jekyll-theme-fica/zipball/master
 -   external_link_2: false # if false, it adds the baseurl of the site
 +   external_link_2: true # if false, it adds the baseurl of the site
     header_name_2: Post
@@ -136,9 +136,9 @@ $ bin/run upgrade
 ```
 {: .nolineno}
 
-Please refer to the [Upgrade Guide](https://github.com/Involts/jekyll-theme-fica/wiki/Theme-Upgrade-Guide) to keep your repo’s files in sync with the latest version of the theme.
+Please refer to the [Upgrade Guide](https://github.com/aeziyehl/jekyll-theme-fica/wiki/Theme-Upgrade-Guide) to keep your repo’s files in sync with the latest version of the theme.
 
-- If you [forked](https://github.com/Involts/jekyll-theme-fica/fork) it on [GitHub](https://github.com/Involts/jekyll-theme-fica), then merge the [latest tags](https://github.com/Involts/jekyll-theme-fica/tags) into your Jekyll site to complete the upgrade. The merge is likely to conflict with your local modifications. Please be patient and careful to resolve these conflicts.
+- If you [forked](https://github.com/aeziyehl/jekyll-theme-fica/fork) it on [GitHub](https://github.com/aeziyehl/jekyll-theme-fica), then merge the [latest tags](https://github.com/aeziyehl/jekyll-theme-fica/tags) into your Jekyll site to complete the upgrade. The merge is likely to conflict with your local modifications. Please be patient and careful to resolve these conflicts.
 
 
 

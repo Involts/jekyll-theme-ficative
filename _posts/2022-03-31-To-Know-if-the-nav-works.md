@@ -1,7 +1,7 @@
 ---
 layout: post
 site-title: To Know if the nav works
-author: Involts
+author: Aziel Lance
 modified_date: 2022-04-3
 post_toc: false
 ---
